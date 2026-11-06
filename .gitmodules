@@ -1,0 +1,6 @@
+[submodule "third_party/GLM-4-Voice"]
+	path = third_party/GLM-4-Voice
+	url = https://github.com/shenyunhang/GLM-4-Voice.git
+[submodule "third_party/seed-tts-eval"]
+	path = third_party/seed-tts-eval
+	url = https://github.com/shenyunhang/seed-tts-eval.git
